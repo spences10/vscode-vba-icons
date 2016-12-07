@@ -1,0 +1,32 @@
+{
+    "iconDefinitions": {
+        "class.ico": {
+            "iconPath": "./images/class.ico"
+        },
+        "form.ico": {
+            "iconPath": "./images/form.ico"
+        },
+        "module.ico": {
+            "iconPath": "./images/module.ico"
+        },
+        "vba.ico": {
+            "iconPath": "./images/vba.ico"
+        }
+    },
+
+    "fileExtensions": {
+        "cls": "class.ico",
+        "frm": "form.ico",
+        "bas": "module.ico",
+        "sht": "vba.ico",
+        "wbk": "vba.ico"
+    },
+    "fileNames": {
+        ".cls": "class.ico",
+        ".frm": "form.ico",
+        ".bas": "module.ico",
+        ".sht": "vba.ico",
+        ".wbk": "vba.ico"
+    }
+
+}

@@ -1,0 +1,25 @@
+{
+    "name": "vscode-vba-icons",
+    "publisher": "spences10",
+    "description": "VBA icons for use with VSCode VBA.",
+    "version": "1.0.0",
+    "icon": "images/logo.png",
+    "license": "MIT",
+    "engines": {
+        "vscode": "0.10.x"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [{
+            "id": "vscode-vba-icons",
+            "label": "VBA Icons",
+            "path": "./fileicons/vba-icons-icon-theme.json"
+        }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spences10/vscode-vba-icons.git"
+    }
+}
