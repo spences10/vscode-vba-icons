@@ -2,6 +2,10 @@
 
 VBA Icons for VSCode.
 
+You'll need to change back to your previous icon pack once finished with VBA icons as there no support for other file types.
+
+These icons support .bas, .frm, .cls, .sht and .wkb the last two are what I export the Worksheet and Workbook code into.
+
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 ```
