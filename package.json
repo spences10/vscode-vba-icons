@@ -15,7 +15,12 @@
         "iconThemes": [{
             "id": "vscode-vba-icons",
             "label": "VBA Icons",
-            "path": "./fileicons/vba-icons-icon-theme.json"
+            "path": "./fileicons/vba-icons-theme.json"
+        }],
+        "languages": [{
+            "id": "vba",
+            "extensions": [".bas", ".cls", ".frm", ".sht", ".wbk"],
+            "aliases": ["vba", "VBA"]
         }]
     },
     "repository": {
