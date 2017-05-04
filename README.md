@@ -1,5 +1,7 @@
 # VSCode VBA Icons
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/vscode-vba-icons.svg)](https://greenkeeper.io/)
+
 VBA Icons for VSCode.
 
 You'll need to change back to your previous icon pack once finished with VBA icons as there no support for other file types.
